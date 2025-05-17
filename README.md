@@ -7,7 +7,7 @@ malicious archive file designed to crash or render a system unusable by consumin
 This is for educational purposes only so "DO NOT ABUSE!"
 
 ## Link
-this is an example of a zip bomb (93GB):
+this is an example of a zip bomb (93MB):
 ```bash
 https://www.mediafire.com/file/0evfnnqkpuc8kls/zipper.zip/file
 ```
